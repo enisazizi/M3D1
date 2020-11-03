@@ -29,7 +29,7 @@ const removeChar = (str, N) => {
     return newStr;
   };
   
-//   console.log(removeChar("Strive", 3));
+//  console.log(removeChar("Strive", 3));
 
 //Exercise 4
 function largestNum(x,y,z){
@@ -75,7 +75,7 @@ function largestNum(x,y,z){
   return newStr;
 };
 
-console.log(copyString("Enithh", 2));
+// console.log(copyString("2", 2));
 
     // Exercise 7 Create a function to display the city name if the string begins with "Los" or "New" otherwise return blank.
 
@@ -307,9 +307,9 @@ console.log(copyString("Enithh", 2));
 
 
  
-console.log(numToStr(7));   
-console.log(numToStr(30));  
-console.log(numToStr(28));
+// console.log(numToStr(7));   
+// console.log(numToStr(30));  
+// console.log(numToStr(28));
 
 
 // Exercise 20
@@ -328,7 +328,7 @@ console.log(numToStr(28));
             }
             return acronym
         }
-            console.log(phrasetoacronym("united states america"))
+            // console.log(phrasetoacronym(" Strive School"))
 
 
        
